@@ -13,6 +13,5 @@ decBtnEl.addEventListener('click', () => {
 
 incBtnEl.addEventListener('click', () => {
     counterValue += 1;
-
     valueEl.textContent = counterValue;
 })
